@@ -1,5 +1,4 @@
 #  iSCSI length constraints vulnerability in the Linux kernel
-#### By: Brody Massecar, Olatubosun Aremu and Yifeng Xie
 
 ## Introduction
 
